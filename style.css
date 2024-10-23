@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Kablammo&family=Rubik+Dirt&display=swap');
+body{
+     text-align: center;
+     font-family: "Kablammo", system-ui;
+}
+.div-1{
+     border: 7px grey dotted;
+     width: 350px;
+     padding: 20px;
+     position: absolute;
+     top: 50%;
+     left:  50%;
+     transform: translate(-50%,-50%);
+}
+.div-12{
+     display: flex;
+     justify-content: space-evenly;
+}
+button{
+     background-color:coral;
+     font-family: "Kablammo", system-ui;
+     font-weight: 750;
+     font-size: 24px;
+     border: none;
+}
+.div-13{
+     background-color: white;
+     height: 180px;
+     width: 180px;
+     border-radius: 50%;
+     border: 5px solid white;
+     margin-top: 50px;
+}
